@@ -12,7 +12,7 @@ Or just folow the code in class - `eng.scrambled.solver.StartHere`
 
 ## Test ##
 eeiilvnost == television
-aloppt == [APPLOT,LAPTOP]
+ aloppt == [APPLOT,LAPTOP]
 
 ## TODO ##
 Couldn't figure out a way to solve, if the scrambled characters results in multiple english words.
