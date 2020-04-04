@@ -5,7 +5,7 @@ To solve those stupid whatsapp forwards where you have to guess what the word is
 I am downloading the list from  -  [dwyl/english-words](https://github.com/dwyl/english-words "dwyl/english-words")
 Invoke the following method - 
 `Downloader.downLoad(String urlToDownloadWordsFrom,File targetFileToSaveWordList);`
-2. After that, every time you want to search possible english works for a scrambled set of characters, invoke - 
+2. After that, every time you want to search possible english words for a scrambled set of characters, invoke - 
 `Finder.findAllWordsContainingCharacters(File fileContainingWordList, String scrambledCharacters,boolean returnAfterFirstMatch);`
 
 Or just folow the code in class - `eng.scrambled.solver.StartHere`
