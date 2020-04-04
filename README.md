@@ -16,6 +16,7 @@ aloppt == [APPLOT,LAPTOP]
 
 ## TODO ##
 Couldn't figure out a way to solve, if the scrambled characters results in multiple english words.  
-For example - AAABBEEFKLRSTT == Breakfast Table  
+For example -   
+AAABBEEFKLRSTT == Breakfast Table  
 But this my code can't solve this yet. I am still not sure how I can implement such a functionality without lots and lots of heavy processing.
 Any recommendations/pull request welcome.
