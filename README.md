@@ -1,5 +1,5 @@
 # ScrambledWordSolver_English
-To solve those stupid whatsapp forwards where you have to guess what the work is.
+To solve those stupid whatsapp forwards where you have to guess what the word is.
 
 1. First download the english word list. This is a onetime process.
 I am downloading the list from  -  [dwyl/english-words](https://github.com/dwyl/english-words "dwyl/english-words")
