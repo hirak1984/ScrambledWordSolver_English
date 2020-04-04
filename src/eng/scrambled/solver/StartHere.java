@@ -7,7 +7,7 @@ public class StartHere {
 	static {
 
 		System.setProperty("javax.net.ssl.trustStore", "C:\\jdk1.8.0_74\\jre\\lib\\security\\github");
-		System.setProperty("javax.net.ssl.trustStorePassword", "github");
+		System.setProperty("javax.net.ssl.trustStorePassword", "11");
 	}
 
 	public static void main(String[] args) throws IOException {
